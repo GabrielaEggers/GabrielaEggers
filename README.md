@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfi 🌻
 
-<!--
-**GabrielaEggers/GabrielaEggers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriela Eggers
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me deenvolvendo em linguagem de programação
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contto comigo 📧
+
+gabriela.eggers@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/5TkEsKdp_qQAAAAC/hasbulla-hasbulla-magomedov.gif)
